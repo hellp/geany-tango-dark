@@ -1,0 +1,24 @@
+# See section "Special file filetypes.common" in
+# http://www.geany.org/manual/current/index.html
+
+[named_styles]
+# foreground;background;bold;italic
+default=0xeeeeec;0x2e3436;false;false
+whitefg=0xffffff;;;
+tango_green1=0x8ae234;;;
+tango_green1bold=0x8ae234;;true;
+#tango_green2=
+#tango_green3
+tango_red1=0xef2929;;;
+tango_red1bold=0xef2929;;true;
+
+[styling]
+# foreground;background;bold;italic
+default=default
+caret=whitefg
+current_line=;0x181c1c;true;
+brace_good=tango_green1bold
+brace_bad=tango_red1bold
+indent_guide=0x888a85;;;
+white_space=0x888a85;;true;false
+selection=;0x555753;false;true
