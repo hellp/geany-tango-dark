@@ -6,6 +6,7 @@ Languages currently supported:
  * Python (contributed by batisteo)
  * C
  * C++
+ * .conf
  * CSS (including CSS3 and browser vendor prefixes)
  * HTML
  * Java
