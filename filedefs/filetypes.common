@@ -7,10 +7,12 @@ default=0xeeeeec;0x2e3436;false;false
 whitefg=0xffffff;;;
 tango_green1=0x8ae234;;;
 tango_green1bold=0x8ae234;;true;
-#tango_green2=
-#tango_green3
 tango_red1=0xef2929;;;
 tango_red1bold=0xef2929;;true;
+tango_butter2=0xedd400;;;
+comment=0x888a85;0x2e3436;false;false
+tango_blue1=0x729fcf;;;
+tango_blue1bold=0x729fcf;;true;
 
 [styling]
 # foreground;background;bold;italic
