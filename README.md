@@ -11,6 +11,7 @@ Languages currently supported:
  * HTML
  * Java
  * JavaScript
+ * Makefile
  * PHP
  * SGML
  * Shell scripts
